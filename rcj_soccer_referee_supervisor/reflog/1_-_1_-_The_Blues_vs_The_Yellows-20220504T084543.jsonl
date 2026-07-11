@@ -1,0 +1,4 @@
+{"datetime": "2022-05-04T08:45:43.154487Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-05-04T08:45:43.185008Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "The Yellows", "team_name_blue": "The Blues", "match_id": "1", "halftime": 1}}
+{"datetime": "2022-05-04T08:45:58.929926Z", "matchtime": 15.04000000001838, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-05-04T08:46:00.755588Z", "matchtime": 16.800000000020532, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
