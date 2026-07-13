@@ -91,6 +91,9 @@ Achievement of this project resulted in:
 <img src="assets/photo_4.png" width="850">
 </p>
 
+<p align="center">
+<img src="assets/photo_5.png" width="850">
+</p>
 ---
 
 ## Author
